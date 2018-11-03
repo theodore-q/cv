@@ -9,7 +9,7 @@
 Experienced Full Stack web developer with project management and leadership experience.
 Excited by new challenges and driven by the prospect of building products that fundamentally change the ways that we interact with each other and our favourite brands.
 
-Theo has over 4 experience building troubleshooting issues with marketing agencies for household name brands including Spotify, Mcdonalds and Nestle. He had Designed and built frontend and backend components for a Social remarketing tool with cross site user tracking, AB testing and reporting for a highly valued startup.
+Theo has over 4 experience building troubleshooting issues with marketing agencies for household name brands including Spotify, Mcdonalds and Nestle. He has Designed and built frontend and backend components for a Social remarketing tool with cross site user tracking, AB testing and reporting for a highly valued startup.
 
 ## Technology
 ### Front end
