@@ -1,7 +1,6 @@
 # Theo Evelyn-Rahr
 ## Fullstack Web Developer
  ::: links
- * Linkedin
  * [Linkedin](https://www.linkedin.com/in/theo-evelyn-rahr-688b287a/)
  * [Github](https://github.com/)
  * [Codepen](https://codepen.io/theodore-q/)
