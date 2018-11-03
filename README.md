@@ -3,8 +3,8 @@
  ::: links
  * Linkedin
  * [Linkedin](https://www.linkedin.com/in/theo-evelyn-rahr-688b287a/)
- * Github
- * Codepen
+ * [Github](https://github.com/)
+ * [Codepen](https://codepen.io/theodore-q/)
  :::
 
 Experienced full stack web developer with project management and leadership experience.
