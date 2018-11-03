@@ -1,5 +1,5 @@
 # Theo Evelyn-Rahr
-## Fullstack Web Developer
+## Fullstack Technical Lead
  ::: links
  * [Linkedin](https://www.linkedin.com/in/theo-evelyn-rahr-688b287a/)
  * [Github](https://github.com/)
