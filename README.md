@@ -1,13 +1,14 @@
 # Theo Evelyn-Rahr
-## Fullstack Technical Lead
+## Full Stack Technical Lead
  ::: links
  * [Linkedin](https://www.linkedin.com/in/theo-evelyn-rahr-688b287a/)
  * [Github](https://github.com/)
  * [Codepen](https://codepen.io/theodore-q/)
  :::
 
-Experienced full stack web developer with project management and leadership experience.
+Experienced Full Stack web developer with project management and leadership experience.
 Excited by new challenges and driven by the prospect of building products that fundamentally change the ways that we interact with each other and our favourite brands.
+
 My front end experience includes building troubleshooting issues with marketing agencies for household name brands including Spotify, Mcdonalds and Nestle. My backend experience includes designing and building a Social remarketing tool with cross site user tracking, Ab testing and reporting.
 
 ## Technology
