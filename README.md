@@ -9,7 +9,7 @@
 Experienced Full Stack web developer with project management and leadership experience.
 Excited by new challenges and driven by the prospect of building products that fundamentally change the ways that we interact with each other and our favourite brands.
 
-My front end experience includes building troubleshooting issues with marketing agencies for household name brands including Spotify, Mcdonalds and Nestle. My backend experience includes designing and building a Social remarketing tool with cross site user tracking, Ab testing and reporting.
+My front end experience includes building troubleshooting issues with marketing agencies for household name brands including Spotify, Mcdonalds and Nestle. My backend experience includes designing and building a Social remarketing tool with cross site user tracking, AB testing and reporting.
 
 ## Technology
 ### Front end
