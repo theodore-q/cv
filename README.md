@@ -18,7 +18,6 @@ Theo has over 4 experience building troubleshooting issues with marketing agenci
  * Javascript ES 5/6
  * CSS
  * SASS
- * SCSS
  * BEM
  * React
  * Redux
@@ -32,7 +31,7 @@ Theo has over 4 experience building troubleshooting issues with marketing agenci
  * Express
  * Mocha
  * Mongo
- * Postgresql
+ * PostgreSQL
  * Knex
  * Rabbit MQ
  * Websockets
@@ -44,14 +43,12 @@ Theo has over 4 experience building troubleshooting issues with marketing agenci
  * Terraform
  * AWS
  * Heroku
- * Analytics
  * Newrelic
  * Mixpanel
  :::
 ### Other
 ::: tags
  * Git
- * Design patterns 
  * SSH
  * Restful architecture
  * Social API's
