@@ -1,0 +1,149 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+html,
+body {
+  overflow-x: hidden;
+  width: 100%;
+  font-family: roboto;
+}
+
+body {
+  background: #fefefe;
+  padding: 40px 15px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+h2 {
+  border-left: solid #81d4fa 2px;
+  padding-left: 6px;
+}
+
+.cover {
+  width: 100%;
+  padding: 2rem 4vw 3rem;
+  background: white;
+}
+
+#content {
+  min-height: 40vh;
+}
+
+.circle {
+  background: #ffa726;
+  height: 420px;
+  width: 420px;
+  position: absolute;
+  right: -210px;
+  top: -210px;
+  z-index: -1;
+  border-radius: 100%;
+}
+
+.row {
+  position: relative;
+  z-index: 1;
+  background: white;
+  box-shadow: 0 7px 12px rgba(0, 0, 0, 0.28);
+  max-width: 800px;
+  margin: 15px auto;
+}
+
+.links ul:first-of-type {
+  list-style-type: none;
+  display: inline-flex;
+  width: 100%;
+  margin: 0px;
+  justify-content: center;
+}
+.links ul:first-of-type li:nth-of-type(n + 2) {
+  margin-left: 6px;
+  text-align: center;
+}
+.links ul:first-of-type li:nth-of-type(n + 2):before {
+  content: '| ';
+}
+
+p {
+  margin-top: 15px;
+}
+
+.tags {
+  font-size: 13px;
+  cursor: context-menu;
+}
+.tags ul:last-child::after {
+  content: '';
+  flex-grow: 20;
+}
+.tags ul {
+  display: inline-flex;
+  flex-wrap: wrap;
+  margin-left: 0px;
+  list-style-type: none;
+}
+.tags ul li {
+  text-align: center;
+  flex-grow: 1;
+  background: #ffa726;
+  border: solid 0.5px grey;
+  display: inline-block;
+  margin: 0.3em 0.3em;
+  padding: 0.45em 1.3em;
+  border-radius: 0.2em;
+  transition: box-shadow 0.3s ease-in-out;
+}
+.tags ul li:hover {
+  box-shadow: 0 2px 3px 1px rgba(0, 0, 0, 0.44);
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+}
+
+.loader {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 50px;
+  height: 50px;
+  background-color: #03a9f4;
+  border-radius: 50%;
+}
+.loader:after {
+  content: '';
+  position: absolute;
+  border-radius: 50%;
+  top: 50%;
+  left: 50%;
+  border: 0px solid white;
+  transform: translate(-50%, -50%);
+  animation: loading 1100ms ease-out forwards infinite;
+}
+
+@keyframes loading {
+  0% {
+    border: 0px solid white;
+    width: 0%;
+    height: 0%;
+  }
+  20% {
+    border: 8px solid white;
+  }
+  100% {
+    border: 8px solid white;
+    width: 110%;
+    height: 110%;
+  }
+}
