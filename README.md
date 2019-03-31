@@ -63,6 +63,7 @@ I have experience troubleshooting issues with marketing agencies for household n
 ## Experience
 ### March 2017 - Present
 Lead developer: Soreto
+
 I have helped grow Soreto from an MVP to a product with over 20 clients. Soreto is responsible for driving hundreds of unique daily clicks. It is currently being attributed with hundreds of weekly sales.
 I architect, plan, build, and test features that make traffic convert and enable clients to craft the right UX for their brand.
 Each feature represents business requirements that I break down, discuss and work to develop as part of the larger platform. 
