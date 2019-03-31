@@ -22,8 +22,7 @@ I have experience troubleshooting issues with marketing agencies for household n
  * React
  * Redux
  * Hugo
- * Cookies 
- * User Tracking
+ * Cookies
 :::
 ### Backend end
 ::: tags
@@ -58,6 +57,7 @@ I have experience troubleshooting issues with marketing agencies for household n
  * Webpack
  * ESlint
  * Wordpress
+ * User Tracking
 :::
 
 ## Experience
