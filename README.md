@@ -63,15 +63,16 @@ I have experience troubleshooting issues with marketing agencies for household n
 ## Experience
 ### March 2017 - Present
 Lead developer: Soreto
-I architect, plan, build, and test features for the company's platform.
+I have helped grow Soreto from an MVP to a product with over 20 clients. Soreto is responsible for driving hundreds of unique daily clicks. It is currently being attributed with hundreds of weekly sales.
+I architect, plan, build, and test features that make traffic convert and enable clients to craft the right UX for their brand.
+Each feature represents business requirements that I break down, discuss and work to develop as part of the larger platform. 
+
 
 This involves:
- * Managing and extending our postgres and mongo databases.
- * Creating restful api endpoints and reusable front end components. 
- * Writing tests.
- * Performing code review.
- * Mentoring and guiding team members in technical tasks.
- * Keeping the products technology stack up to date
+ * Evolving and extending our postgres and mongo databases to deal with changing business requirements.
+ * Creating restful API endpoints and reusable front end components. 
+ * Performing code review and mentoring team members in technical tasks.
+ * Keeping the products technology stack secure and up to date
 
 ### March 2016 - March 2017
 Tier II Global Support Engineer: Sizmek
