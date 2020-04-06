@@ -61,7 +61,7 @@ I have experience troubleshooting issues with marketing agencies for household n
 :::
 
 ## Experience
-### March 2017 - Present
+### March 2017 - October 2019
 Lead developer: Soreto
 
 I have helped grow Soreto from an MVP to a product with over 20 clients. Soreto is responsible for driving hundreds of unique daily clicks. It is currently being attributed with hundreds of weekly sales.
